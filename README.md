@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amalrajsingh
+- 👋 Hi, I’m @singhamal001
 - 👀 I’m interested in ... Trading cryptocurrencies 
 - 🌱 I’m currently learning ... Algorithmic Trading
 - 💞️ I’m looking to collaborate on ...
