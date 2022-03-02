@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @singhamal001
-- 👀 I’m interested in ... Trading cryptocurrencies 
-- 🌱 I’m currently learning ... Algorithmic Trading
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Creating applications that include both back-end and front-end operations, Trading cryptocurrencies 
+- 🌱 I’m currently learning ... Advanced Java Programming, DS & Algo, Algorithmic Trading
 - 📫 How to reach me ... Twitter: @singhamal001
 
 <!---
